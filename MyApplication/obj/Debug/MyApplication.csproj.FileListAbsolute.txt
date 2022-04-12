@@ -1,0 +1,13 @@
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\bin\Debug\Database1.mdf
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\bin\Debug\Database1_log.ldf
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.exe.config
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.exe
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\bin\Debug\MyApplication.pdb
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.AssemblyReference.cache
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.Form1.resources
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.Properties.Resources.resources
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.GenerateResource.cache
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.exe
+C:\Users\Simfo\source\repos\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
